@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="645d6e95-ba0d-4aa7-97c7-706c81b747bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2FRmS9RUKZUcGAWVlTNwmy1U3P6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cifar10/trained_nets" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\local\loss_landscape\cifar10\trained_nets" />
+      <recent name="E:\code\local\loss_landscape\cifar10\trained_nets\ES_CRA_ME" />
+      <recent name="E:\code\local\loss_landscape\cifar10\trained_nets\DARTS_V1" />
+      <recent name="E:\code\local\loss_landscape\cifar10\models" />
+      <recent name="E:\code\local\loss_landscape\cifar10\trained_nets\vgg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.plot_surface">
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="loss_landscape" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cifar10/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cifar10/models/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_1D" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="loss_landscape" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_1D.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_2D" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="loss_landscape" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_2D.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_surface" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="loss_landscape" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_surface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plot_surface" />
+        <item itemvalue="Python.plot_2D" />
+        <item itemvalue="Python.model" />
+        <item itemvalue="Python.plot_1D" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="645d6e95-ba0d-4aa7-97c7-706c81b747bd" name="Default Changelist" comment="" />
+      <created>1664463267554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664463267554</updated>
+      <workItem from="1664463273188" duration="3152000" />
+      <workItem from="1664496518364" duration="183000" />
+      <workItem from="1664501847006" duration="1520000" />
+      <workItem from="1695385779631" duration="4076000" />
+      <workItem from="1695695230320" duration="9563000" />
+      <workItem from="1697506184954" duration="1800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="337" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1695448402950">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="319" y="337" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@0.0.1707.1027" timestamp="1695448402950" />
+    <state x="416" y="-1075" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@33.-1440.2048.1112" timestamp="1695391187649" />
+    <state width="2517" height="551" key="GridCell.Tab.0.bottom" timestamp="1697510422253">
+      <screen x="-2527" y="-1452" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="551" key="GridCell.Tab.0.bottom/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@-2527.-1452.2560.1400" timestamp="1697510422253" />
+    <state width="2517" height="490" key="GridCell.Tab.0.bottom/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@0.0.1707.1027" timestamp="1695739494900" />
+    <state width="2005" height="376" key="GridCell.Tab.0.bottom/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@33.-1440.2048.1112" timestamp="1695391235920" />
+    <state width="2517" height="551" key="GridCell.Tab.0.center" timestamp="1697510422253">
+      <screen x="-2527" y="-1452" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="551" key="GridCell.Tab.0.center/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@-2527.-1452.2560.1400" timestamp="1697510422253" />
+    <state width="2517" height="490" key="GridCell.Tab.0.center/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@0.0.1707.1027" timestamp="1695739494900" />
+    <state width="2005" height="376" key="GridCell.Tab.0.center/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@33.-1440.2048.1112" timestamp="1695391235920" />
+    <state width="2517" height="551" key="GridCell.Tab.0.left" timestamp="1697510422253">
+      <screen x="-2527" y="-1452" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="551" key="GridCell.Tab.0.left/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@-2527.-1452.2560.1400" timestamp="1697510422253" />
+    <state width="2517" height="490" key="GridCell.Tab.0.left/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@0.0.1707.1027" timestamp="1695739494900" />
+    <state width="2005" height="376" key="GridCell.Tab.0.left/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@33.-1440.2048.1112" timestamp="1695391235920" />
+    <state width="2517" height="551" key="GridCell.Tab.0.right" timestamp="1697510422253">
+      <screen x="-2527" y="-1452" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="551" key="GridCell.Tab.0.right/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@-2527.-1452.2560.1400" timestamp="1697510422253" />
+    <state width="2517" height="490" key="GridCell.Tab.0.right/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@0.0.1707.1027" timestamp="1695739494900" />
+    <state width="2005" height="376" key="GridCell.Tab.0.right/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@33.-1440.2048.1112" timestamp="1695391235920" />
+    <state width="2517" height="490" key="GridCell.Tab.1.bottom" timestamp="1695739494901">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="2517" height="490" key="GridCell.Tab.1.bottom/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@-2527.-1452.2560.1400" timestamp="1695696695060" />
+    <state width="2517" height="490" key="GridCell.Tab.1.bottom/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@0.0.1707.1027" timestamp="1695739494901" />
+    <state width="2517" height="490" key="GridCell.Tab.1.center" timestamp="1695739494900">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="2517" height="490" key="GridCell.Tab.1.center/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@-2527.-1452.2560.1400" timestamp="1695696695060" />
+    <state width="2517" height="490" key="GridCell.Tab.1.center/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@0.0.1707.1027" timestamp="1695739494900" />
+    <state width="2517" height="490" key="GridCell.Tab.1.left" timestamp="1695739494900">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="2517" height="490" key="GridCell.Tab.1.left/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@-2527.-1452.2560.1400" timestamp="1695696695060" />
+    <state width="2517" height="490" key="GridCell.Tab.1.left/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@0.0.1707.1027" timestamp="1695739494900" />
+    <state width="2517" height="490" key="GridCell.Tab.1.right" timestamp="1695739494901">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="2517" height="490" key="GridCell.Tab.1.right/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@-2527.-1452.2560.1400" timestamp="1695696695060" />
+    <state width="2517" height="490" key="GridCell.Tab.1.right/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@0.0.1707.1027" timestamp="1695739494901" />
+    <state x="-1584" y="-1137" width="672" height="678" key="search.everywhere.popup" timestamp="1695696652915">
+      <screen x="-2527" y="-1452" width="2560" height="1400" />
+    </state>
+    <state x="-1584" y="-1137" width="672" height="678" key="search.everywhere.popup/0.0.1707.1027/33.-1440.2048.1112/-2527.-1452.2560.1400@-2527.-1452.2560.1400" timestamp="1695696652915" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/loss_landscape$plot_surface.coverage" NAME="plot_surface Coverage Results" MODIFIED="1697506616076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/loss_landscape$plot_1D.coverage" NAME="plot_1D Coverage Results" MODIFIED="1664463435278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/loss_landscape$plot_2D.coverage" NAME="plot_2D Coverage Results" MODIFIED="1695732288030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/loss_landscape$model.coverage" NAME="model Coverage Results" MODIFIED="1695696562545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cifar10/models" />
+  </component>
+</project>

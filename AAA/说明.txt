@@ -1,0 +1,6 @@
+attacker_small:提供搜索阶段的评估（训练集）、测试阶段的评估（在训练集上搜索得到的攻击在测试集上评估），均为函数
+VCAA_verify: 测试阶段的评估（在训练集上搜索得到的攻击在测试集上评估）
+auto-attack:四种算法的集成攻击
+optimizer_attack:搜索算法搜索不同攻击组合
+eval_AAA:评估搜索得到的对抗攻击
+eval_manual:评估人工设计的对抗攻击

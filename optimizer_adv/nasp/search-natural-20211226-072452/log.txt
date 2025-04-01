@@ -1,0 +1,19 @@
+2021-12-26 07:24:54,351 gpu device = 0
+2021-12-26 07:24:54,351 args = Namespace(arch_learning_rate=0.0003, arch_weight_decay=0.001, aux_loss_weight=10.0, batch_size=64, cutout=False, cutout_length=16, data='/mnt/xiayufeng_v0/data', debug=False, drop_path_prob=0.3, epochs=50, gpu=0, grad_clip=5, greedy=0, init_channels=16, l2=0, layers=8, learning_rate=0.025, learning_rate_min=0.001, model_path='saved_models', momentum=0.9, name='runs', report_freq=50, save='search-natural-20211226-072452', seed=2, sep_loss='l2', single_level=False, train_portion=0.5, weight_decay=0.0003)
+2021-12-26 07:25:01,267 param size = 1.930618MB
+2021-12-26 07:25:02,483 epoch 0 lr 2.495266e-02
+2021-12-26 07:25:02,484 genotype = Genotype(normal=[('skip_connect', 0), ('skip_connect', 1), ('skip_connect', 0), ('skip_connect', 1), ('skip_connect', 0), ('skip_connect', 1), ('skip_connect', 0), ('skip_connect', 1)], normal_concat=range(2, 6), reduce=[('skip_connect', 0), ('skip_connect', 1), ('skip_connect', 0), ('skip_connect', 1), ('skip_connect', 0), ('skip_connect', 1), ('skip_connect', 0), ('skip_connect', 1)], reduce_concat=range(2, 6))
+2021-12-26 07:25:06,110 train 000 2.293686e+00 9.375000 42.187500
+2021-12-26 07:26:47,103 train 050 2.210631e+00 13.633578 59.681373
+2021-12-26 07:28:29,697 train 100 2.131777e+00 16.955446 67.326733
+2021-12-26 07:30:08,879 train 150 2.071501e+00 19.805464 71.326573
+2021-12-26 07:31:49,869 train 200 2.019679e+00 21.999378 74.090485
+2021-12-26 07:33:30,549 train 250 1.975671e+00 23.761205 76.070717
+2021-12-26 07:35:12,207 train 300 1.936041e+00 25.254360 77.720100
+2021-12-26 07:36:53,168 train 350 1.898589e+00 26.874110 79.144409
+2021-12-26 07:38:15,956 train time 793.470945
+2021-12-26 07:38:15,962 alphas_time 245.257180 
+2021-12-26 07:38:15,962 forward_time 115.646885
+2021-12-26 07:38:15,962 backward_time 124.218042
+2021-12-26 07:38:15,962 train_acc 27.932000
+2021-12-26 07:38:17,069 valid 000 3.405104e+00 14.062500 54.687500

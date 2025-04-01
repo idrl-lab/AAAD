@@ -1,0 +1,19 @@
+2021-12-20 06:31:08,838 gpu device = 0
+2021-12-20 06:31:08,838 args = Namespace(arch_learning_rate=0.0003, arch_weight_decay=0.001, aux_loss_weight=10.0, batch_size=64, cutout=False, cutout_length=16, data='/mnt/xiayufeng_v0/data', debug=False, drop_path_prob=0.3, epochs=50, gpu=0, grad_clip=5, greedy=0, init_channels=16, l2=0, layers=8, learning_rate=0.025, learning_rate_min=0.001, model_path='saved_models', momentum=0.9, name='runs', report_freq=50, save='search-FGSM_1_100-20211220-063108', seed=2, sep_loss='l2', single_level=False, train_portion=0.5, weight_decay=0.0003)
+2021-12-20 06:31:13,528 param size = 1.930618MB
+2021-12-20 06:31:14,571 epoch 0 lr 2.495266e-02
+2021-12-20 06:31:14,572 genotype = Genotype(normal=[('skip_connect', 0), ('skip_connect', 1), ('skip_connect', 0), ('skip_connect', 1), ('skip_connect', 0), ('skip_connect', 1), ('skip_connect', 0), ('skip_connect', 1)], normal_concat=range(2, 6), reduce=[('skip_connect', 0), ('skip_connect', 1), ('skip_connect', 0), ('skip_connect', 1), ('skip_connect', 0), ('skip_connect', 1), ('skip_connect', 0), ('skip_connect', 1)], reduce_concat=range(2, 6))
+2021-12-20 06:31:20,017 train 000 4.586492e+00 10.937500 46.875000 0.000000e+00 0.000000
+2021-12-20 06:33:50,672 train 050 4.339448e+00 17.003676 63.296569 0.000000e+00 0.000000
+2021-12-20 06:36:10,799 train 100 4.139317e+00 19.817450 71.704827 0.000000e+00 0.000000
+2021-12-20 06:38:31,652 train 150 4.051915e+00 20.954056 75.258692 0.000000e+00 0.000000
+2021-12-20 06:40:55,542 train 200 3.982306e+00 22.341418 77.083333 0.000000e+00 0.000000
+2021-12-20 06:43:17,659 train 250 3.927723e+00 23.879482 78.317978 0.000000e+00 0.000000
+2021-12-20 06:45:38,617 train 300 3.885577e+00 24.906561 79.324128 0.000000e+00 0.000000
+2021-12-20 06:48:00,686 train 350 3.839216e+00 26.117343 80.235043 0.000000e+00 0.000000
+2021-12-20 06:49:56,388 train time 1121.815455
+2021-12-20 06:49:56,393 alphas_time 198.329713 
+2021-12-20 06:49:56,394 forward_time 100.662516
+2021-12-20 06:49:56,394 backward_time 187.968926
+2021-12-20 06:49:56,395 train_acc 26.812000
+2021-12-20 06:49:57,934 valid 000 7.105734e+00 10.937500 48.437500 0.000000e+00 0.000000
