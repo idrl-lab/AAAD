@@ -9,7 +9,7 @@
    A3D integrates multiple neural architecture search methods to find robust architectures under different robustness evaluation metrics. 
    Besides, we provide multiple optimization algorithms to search for efficient adversarial attacks. In addition, we combine auto-adversarial attack and defense together to form a unified framework. Among auto adversarial defense, the searched efficient attack can be used as the new robustness evaluation to further enhance the robustness. In auto-adversarial attack, the searched robust architectures can be utilized as the threat model to help find stronger adversarial attacks. Experiments on CIFAR10, CIFAR100, and ImageNet datasets demonstrate the feasibility and effectiveness of the proposed platform.
 
-arxiv: https://arxiv.org/abs/2203.03128
+paper link: [https://ieeexplore.ieee.org/document/10857641/](https://ieeexplore.ieee.org/document/10857641/)
 
 
 ## Framework
